@@ -1,6 +1,4 @@
 
-## 7. README.md
-```markdown
 # Task Manager API
 
 A RESTful API for managing tasks built with Flask and MongoDB.
